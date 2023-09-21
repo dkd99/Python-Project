@@ -1,4 +1,9 @@
 # project
+# complete.py -- Gernarates Data and provides a streamlit dashboard.
+# final.py- Takes csv as input from user and then provides a streamlit dashboard.
+# main.py--contains script for generating data and saves the csv file in the folder.
+# kpi.py--uses the saved csv file to present some kpi's.
+
 # Online Store Marketing Analysis
 This Python application analyzes data from an online store to derive key performance indicators (KPIs) and provide marketing optimization suggestions. The application is built using Streamlit.
 # How to Run the Application
@@ -7,11 +12,11 @@ This Python application analyzes data from an online store to derive key perform
 1. Clone the repository to your local machine or download the code as a ZIP file and extract it.
 2. Open a terminal or command prompt and navigate to the project directory.
 3. Create a virtual environment.
-# python -m venv myenv
+python -m venv myenv
 4. Activate the venv
-# .\myenv\Scripts\activate
+.\myenv\Scripts\activate
 5. Install the required dependencies using pip:
-# pip install -r requirements.txt
+pip install -r requirements.txt
 # Running the Application:
 1.Run the Streamlit application
 # streamlit run final.py
