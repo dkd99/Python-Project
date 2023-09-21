@@ -1,5 +1,5 @@
 # project
-# complete.py -- Gernarates Data and provides a streamlit dashboard.
+# complete.py -- Generates Data and provides a streamlit dashboard.
 # final.py- Takes csv as input from user and then provides a streamlit dashboard.
 # main.py--contains script for generating data and saves the csv file in the folder.
 # kpi.py--uses the saved csv file to present some kpi's.
