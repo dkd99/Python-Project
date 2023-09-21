@@ -43,6 +43,9 @@ a. The application uses Python libraries such as Pandas, Matplotlib, Seaborn, an
 
 b. Make sure to provide a CSV file with appropriate columns for customer data, including "CustomerID," "VisitDate," "TotalSpend," and "ProductCategory."
 
+![image](https://github.com/dkd99/Python-Project/assets/103329032/ed1c94bd-b549-4445-95cb-7b28398934fb)
+
+
 ![image](https://github.com/dkd99/Python-Project/assets/103329032/8489d3e4-99e4-42aa-a6e6-bacfb7b8495d)
 
 ![image](https://github.com/dkd99/Python-Project/assets/103329032/0290ad05-acc7-4784-807e-1f6ec439999d)
