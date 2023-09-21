@@ -1,10 +1,10 @@
 # project
 
-# complete.py -- Generates Data and provides a streamlit dashboard.
-# final.py- Takes csv as input from user and then provides a streamlit dashboard.
-# main.py--contains script for generating data and saves the csv file in the folder with name customer_data.csv.
-# read_uploadcsv.py presents report based on the output csv file of main.py. If customer_data.csv(which is output of main.py) is not present it takes input from user. 
-# kpi.py--uses the saved csv file to present some kpi's.
+complete.py -- Generates Data and provides a streamlit dashboard.
+final.py- Takes csv as input from user and then provides a streamlit dashboard.
+main.py--contains script for generating data and saves the csv file in the folder with name customer_data.csv.
+read_uploadcsv.py presents report based on the output csv file of main.py. If customer_data.csv(which is output of main.py) is not present it takes input from user. 
+kpi.py--uses the saved csv file to present some kpi's.
 
 # Online Store Marketing Analysis
 This Python application analyzes data from an online store to derive key performance indicators (KPIs) and provide marketing optimization suggestions. The application is built using Streamlit.
