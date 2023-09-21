@@ -42,6 +42,12 @@ f. Calculate the total revenue per product category and present the percentage d
 a. The application uses Python libraries such as Pandas, Matplotlib, Seaborn, and Streamlit to perform data analysis and visualization.
 
 b. Make sure to provide a CSV file with appropriate columns for customer data, including "CustomerID," "VisitDate," "TotalSpend," and "ProductCategory."
+
+![image](https://github.com/dkd99/Python-Project/assets/103329032/8489d3e4-99e4-42aa-a6e6-bacfb7b8495d)
+
 ![image](https://github.com/dkd99/Python-Project/assets/103329032/0290ad05-acc7-4784-807e-1f6ec439999d)
+
+![image](https://github.com/dkd99/Python-Project/assets/103329032/7a40e896-d939-4c0c-87ef-0a9e5edbe3c5)
+
 
 
